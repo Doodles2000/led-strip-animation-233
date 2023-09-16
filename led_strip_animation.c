@@ -28,7 +28,7 @@
 #include "WS2812FX/WS2812FX.h"
 
 #define LED_RGB_SCALE 255       // this is the scaling factor used for color conversion
-#define LED_COUNT 8            // this is the number of WS2812B leds on the strip
+#define LED_COUNT 233            // this is the number of WS2812B leds on the strip
 #define LED_INBUILT_GPIO 2      // this is the onboard LED used to show on/off only
 
 // Global variables

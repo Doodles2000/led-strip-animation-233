@@ -9,7 +9,7 @@ EXTRA_COMPONENTS = \
 	$(abspath ../../components/common/homekit) \
 	$(abspath ../../components/esp8266-open-rtos/WS2812FX)
 
-FLASH_SIZE ?= 32
+FLASH_SIZE ?= 4MB
 # FLASH_SIZE ?= 8
 # HOMEKIT_SPI_FLASH_BASE_ADDR ?= 0x7A000
 HOMEKIT_SPI_FLASH_BASE_ADDR=0x7A000
